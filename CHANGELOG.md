@@ -1,3 +1,15 @@
+# v0.0.3 (Sun Sep 01 2024)
+
+#### ⚠️ Pushed to `main`
+
+- Update entrypoint.sh ([@xennon-sudo](https://github.com/xennon-sudo))
+
+#### Authors: 1
+
+- [@xennon-sudo](https://github.com/xennon-sudo)
+
+---
+
 # v0.0.2 (Sun Sep 01 2024)
 
 #### ⚠️ Pushed to `main`
